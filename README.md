@@ -1,2 +1,2 @@
 # EchoServer
-Basic echo server to learn more about networking
+Basic echo server I made to learn more about networking
